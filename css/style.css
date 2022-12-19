@@ -180,6 +180,14 @@
     .timeline > li.timeline-inverted > .timeline-panel {
       padding: 0 20px 20px;
     }
+    
+  }
+  @media(max-width: 992px){
+    .services .row .nav-link h3{
+      font-size: 16px;
+      width: 50%;
+      display: block;
+    }
   }
   @media (min-width: 1200px) {
     .timeline > li {
